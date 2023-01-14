@@ -7,13 +7,6 @@
 
 This is a small web application that shows user's ip address, location, timezone, and internet service provider. It also displays a map centered on the user's location.
 
-## Table of contents
-
-- [Overview](#overview)
-- [Project structure](#project-structure)
-- [Built with](#built-with)
-- [What I learned](#what-i-learned)
-
 ## Overview
 
 This web aplication was made using HTML, CSS, and JavaScript.
